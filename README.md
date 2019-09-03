@@ -4,7 +4,7 @@
 
 ### The Woman Worked as a Babysitter: On Biases in Language Generation
 
-[Emily Sheng](ewsheng.github.io), [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), [Premkumar Natarajan](https://www.isi.edu/about/bio/prem_natarajan), [Nanyun Peng](https://www.cs.jhu.edu/~npeng/) (EMNLP 2019).
+[Emily Sheng](https://ewsheng.github.io), [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), [Premkumar Natarajan](https://www.isi.edu/about/bio/prem_natarajan), [Nanyun Peng](https://www.cs.jhu.edu/~npeng/) (EMNLP 2019).
 
 This is the annotated _regard_ dataset described in the paper. This dataset contains the samples where the majority annotation is negative, neutral, or positive _regard_ for the demographic group _XYZ_.
 
