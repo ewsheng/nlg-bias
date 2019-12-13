@@ -2,7 +2,7 @@
 
 ##  Data
 
-### The Woman Worked as a Babysitter: On Biases in Language Generation
+### [The Woman Worked as a Babysitter: On Biases in Language Generation](https://arxiv.org/abs/1909.01326)
 
 [Emily Sheng](https://ewsheng.github.io), [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), [Premkumar Natarajan](https://www.isi.edu/about/bio/prem_natarajan), [Nanyun Peng](https://www.cs.jhu.edu/~npeng/) (EMNLP 2019).
 
