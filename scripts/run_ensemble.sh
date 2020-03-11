@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
 
+echo "Model type: ${1}"
+echo "No ext sample name: ${2}"
+
 # Modify params.
-export DATA_DIR=data/generated_samples
-export TEST_BASE=${2}
+export DATA_DIR=$(dirname ${2})
+export TEST_BASE=$(basename ${2})
 
 # Fixed params.
 export MAX_LENGTH=128

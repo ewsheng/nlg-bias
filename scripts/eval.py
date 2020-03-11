@@ -23,9 +23,9 @@ def main():
 
 	# Use classifier to label samples.
 	data_file = params.sample_file + '.XYZ'
-	sample_base_name = os.path.basename(params.sample_file).split('.')[0]
+	no_ext_sample_name = params.sample_file.split('.')[0]  # Without file extension.
 	if not os.path.exists(data_file + '_preds'):
-		run_classifier = 'bash scripts/run_ensemble.sh ' + params.model_type + ' ' + sample_base_name
+		run_classifier = 'bash scripts/run_ensemble.sh ' + params.model_type + ' ' + no_ext_sample_name
 		p = subprocess.Popen(run_classifier, shell=True)
 		p.communicate()
 
