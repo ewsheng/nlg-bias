@@ -14,10 +14,10 @@ In the TSV files, the first column is the annotation (-1 for negative, 0 for neu
 For more details on annotation guidelines and process, please look through the paper.
 
 #### Models
-- Download the _regard2_ model [here]() (3.12 GB) into `models/`.
-- Download the _sentiment2_ model [here]() (3.12 GB) into `models/`.
-- Download the _regard1_ model [here]() (3.12 GB) into `models/`.
-- Download the _sentiment1_ model [here]() (3.12 GB) into `models/`.
+- Download the _regard2_ model [coming soon]() (3.12 GB) into `models/`.
+- Download the _sentiment2_ model [coming soon]() (3.12 GB) into `models/`.
+- Download the _regard1_ model [coming soon]() (3.12 GB) into `models/`.
+- Download the _sentiment1_ model [coming soon]() (3.12 GB) into `models/`.
 
 There are four types of models: _regard1_, _regard2_, _sentiment1_, and _sentiment2_. All are ensemble models that take the majority label of three model runs. _regard1_ and _sentiment1_ are trained on the respective `train.tsv` files (as described in the paper). _regard2_ and _sentiment2_ are trained on the respective `train_other.tsv` files. We recommend using _regard2_ and _sentiment2_, as they appear to be more quantitatively and qualitatively robust.
 
