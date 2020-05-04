@@ -1,5 +1,13 @@
 # nlg-bias
 
+### [Towards Controllable Biases in Language Generation](https://arxiv.org/abs/2005.00268)
+
+[Emily Sheng](https://ewsheng.github.io), [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), [Premkumar Natarajan](https://www.isi.edu/about/bio/prem_natarajan), [Nanyun Peng](http://vnpeng.net).
+
+Code and data coming soon.
+
+#
+
 ### [The Woman Worked as a Babysitter: On Biases in Language Generation](https://arxiv.org/abs/1909.01326)
 
 [Emily Sheng](https://ewsheng.github.io), [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), [Premkumar Natarajan](https://www.isi.edu/about/bio/prem_natarajan), [Nanyun Peng](http://vnpeng.net) (EMNLP 2019).
