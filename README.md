@@ -1,12 +1,5 @@
 # nlg-bias
 
-### [Towards Controllable Biases in Language Generation](https://arxiv.org/abs/2005.00268)
-
-[Emily Sheng](https://ewsheng.github.io), [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), [Premkumar Natarajan](https://www.isi.edu/about/bio/prem_natarajan), [Nanyun Peng](http://vnpeng.net).
-
-Code and data coming soon.
-
-#
 
 ### [The Woman Worked as a Babysitter: On Biases in Language Generation](https://arxiv.org/abs/1909.01326)
 
@@ -22,7 +15,7 @@ In the TSV files, the first column is the annotation (-1 for negative, 0 for neu
 For more details on annotation guidelines and process, please look through the paper.
 
 #### Models
-- Download the _regard2_ model [here](https://drive.google.com/file/d/1A1fV90FsxDr4Xk9R1OLXdy3f4GGPTh0S/view?usp=sharing) (3.12 GB) into `models/`.
+- Download the _regard2_ model [here](https://drive.google.com/file/d/1eHOEfuMvhPboBtC2iQf2ZeCyxrAAACOU/view?usp=sharing) (3.12 GB) into `models/`.
 - Download the _sentiment2_ model [here](https://drive.google.com/file/d/1kJucHA2aYDDLChuObLQrRhR2zNz5qxnI/view?usp=sharing) (3.12 GB) into `models/`.
 - Download the _regard1_ model [here](https://drive.google.com/file/d/10JBZb7lwOs0IONALZVhJJDdL9hpGaHiW/view?usp=sharing) (3.12 GB) into `models/`.
 - Download the _sentiment1_ model [here](https://drive.google.com/file/d/1c9xtBfSUWt8XuqTC7RbtcEFCLBlbqj67/view?usp=sharing) (3.12 GB) into `models/`.
@@ -32,7 +25,7 @@ There are four types of models: _regard1_, _regard2_, _sentiment1_, and _sentime
 | model_type    | dev acc. | test acc. |
 |---------------|----------|-----------|
 | _regard1_     |  0.85    |  0.77     |
-| _regard2_     |  0.88    |  0.83     |
+| _regard2_     |  0.92    |  0.80     |
 | _sentiment1_  |  0.77    |  0.77     |
 | _sentiment2_  |  0.87    |  0.77     |
 
