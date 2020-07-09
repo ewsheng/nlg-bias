@@ -1,8 +1,6 @@
 allennlp==0.9.0
-git+https://github.com/huggingface/transformers@v2.5.1#egg=transformers
+transformers==2.10.0
 numpy==1.17.2
-pytorch-pretrained-bert==0.6.2
-pytorch-transformers==1.1.0
 scikit-learn==0.21.3
 seqeval==0.0.12
 textblob==0.15.3
